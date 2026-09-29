@@ -28,7 +28,7 @@ I'm a B.Tech Computer Science student passionate about building responsive web a
 🎯 **Looking for**
 Internship opportunities in Front-End Development, Software Development, Data/AI, and related roles.
 
-📄 [View My Resume](./Raj_Nandini_Sharma_Resume.pdf)
+📄 [View My Resume](./Raj_Nandini_Sharma_Resume-Converted.pdf)
 
 🔗 **Connect with me**
 
